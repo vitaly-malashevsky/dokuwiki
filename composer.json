@@ -1,4 +1,5 @@
 {
+    "name": "splitbrain/dokuwiki",
     "require": {
         "splitbrain/php-archive": "~1.0",
         "easybook/geshi": "~1.0"
